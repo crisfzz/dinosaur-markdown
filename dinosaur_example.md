@@ -8,7 +8,7 @@ Size is an important aspect of dinosaur paleontology, of interest to both the ge
 
 
 
-Record sizes
+## Record sizes
 
 ![](/figures/Longest_dinosaur_by_clade.png)
 
