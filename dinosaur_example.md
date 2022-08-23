@@ -15,18 +15,18 @@ One of the tallest and heaviest dinosaurs known from good skeletons is *Giraffat
 
 Heaviest sauropodomorphs
 
-*Maraapunisaurus fragilimus*: 79–120 t (87–132 short tons)
-*Argentinosaurus huinculensis*: 65–100 t (72–110 short tons)
-*Mamenchisaurus sinocanadorum*: 60–80 t (66–88 short tons)
-*Patagotitan mayorum*: 52–77 t (57–85 short tons)
-*Notocolossus gonzalezparejasi*: 45–75.9 t (49.6–83.7 short tons)
+- *Maraapunisaurus fragilimus*: 79–120 t (87–132 short tons)
+- *Argentinosaurus huinculensis*: 65–100 t (72–110 short tons)
+- *Mamenchisaurus sinocanadorum*: 60–80 t (66–88 short tons)
+- *Patagotitan mayorum*: 52–77 t (57–85 short tons)
+- *Notocolossus gonzalezparejasi*: 45–75.9 t (49.6–83.7 short tons)
 
 Longest sauropodomorphs
 
-*Barosaurus lentus*: 25–48 m (82–157 ft)
-*Maraapunisaurus fragilimus*: 30.2–40 metres (99–131 ft)
-*Patagotitan mayorum*: 31–37 m (102–121 ft)
-*Supersaurus vivianae*: 32–35 m (105–115 ft)
-*Argentinosaurus huinculensis*: 30–35 m (98–115 ft)
+- *Barosaurus lentus*: 25–48 m (82–157 ft)
+- *Maraapunisaurus fragilimus*: 30.2–40 metres (99–131 ft)
+- *Patagotitan mayorum*: 31–37 m (102–121 ft)
+- *Supersaurus vivianae*: 32–35 m (105–115 ft)
+- *Argentinosaurus huinculensis*: 30–35 m (98–115 ft)
 
 Source: Wikipedia
