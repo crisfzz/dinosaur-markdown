@@ -9,7 +9,7 @@ Reconstructed skeleton of the titanosaur *Argentinosaurus huinculensis* , often 
 
 Record sizes
 
-![alt text](Longest_dinosaur_by_clade.jpg)
+![alt text](Longest_dinosaur_by_clade.png)
 
 Scale diagram comparing a human and the largest-known dinosaurs of five major clades.
 
